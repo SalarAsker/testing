@@ -1,0 +1,20 @@
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\bin\Debug\ErrorProviderEx.exe.config
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\bin\Debug\ErrorProviderEx.exe
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\bin\Debug\ErrorProviderEx.pdb
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.csprojAssemblyReference.cache
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.Form1.resources
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.Properties.Resources.resources
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.csproj.GenerateResource.cache
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.csproj.CoreCompileInputs.cache
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.exe
+C:\Users\saas02\source\repos\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.pdb
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\bin\Debug\ErrorProviderEx.exe.config
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\bin\Debug\ErrorProviderEx.exe
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\bin\Debug\ErrorProviderEx.pdb
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.csprojAssemblyReference.cache
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.Form1.resources
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.Properties.Resources.resources
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.csproj.GenerateResource.cache
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.csproj.CoreCompileInputs.cache
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.exe
+C:\Users\saas02\source\repos\_Project Ideas\ErrorProviderEx\ErrorProviderEx\obj\Debug\ErrorProviderEx.pdb
